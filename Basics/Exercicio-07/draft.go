@@ -15,5 +15,6 @@ func main() {
 	num := [...]int32{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 	fmt.Println(num)
 	fmt.Println(len(num))
+	fmt.Println("---------")
 
 }
