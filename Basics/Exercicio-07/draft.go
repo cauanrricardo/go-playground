@@ -16,5 +16,6 @@ func main() {
 	fmt.Println(num)
 	fmt.Println(len(num))
 	fmt.Println("---------")
+	fmt.Println("---------")
 
 }
