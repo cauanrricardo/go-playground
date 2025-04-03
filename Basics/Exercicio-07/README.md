@@ -1,2 +1,2 @@
 # Exercicio-07
-arrays 
+arrays + formas de arrays + exemplos
